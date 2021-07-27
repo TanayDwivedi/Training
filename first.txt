@@ -1,2 +1,2 @@
-Tis is my first document 
+This is my first document 
 how are you?
